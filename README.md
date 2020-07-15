@@ -1,4 +1,4 @@
-<img align=right src="desk.png" width=450>
+<img align=right src="https://github.com/luisarojas/luisarojas/blob/master/desk.png" width=450>
 
 # Hello, I'm Luisa!
 
