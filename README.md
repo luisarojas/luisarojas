@@ -1,10 +1,12 @@
 <img align=right src="https://github.com/luisarojas/luisarojas/blob/master/desk.png" width=450>
 
-# Hello, I'm Luisa!
+# Hello, I'm Luisa 👩🏻‍💻
 
-I have just completed my **MSc in Computer Science** and am looking for my next adventure as a **Software Developer**.
+I have just completed my **MSc in Computer Science** and am looking for my next adventure in a **Software Developer** role.
 
-I have experience with Python, Java, JavaScript and C++. In terms of databases, I have used MongoDB (NoSQL), Neo4J (Graph) and PostgreSQL (Relational) in the past.
+Some technologies I enjoy working with include Python, JavaScript and Java. Others I have worked with in the past are Docker, MongoDB (NoSQL), Neo4J (graph), and PostreSQL (relational).
+
+I have had exposure to ReactJS, AWS and GraphQL and am currently taking courses to learn them even better.
 
 Ideally, I would love to work as a back-end developer; however, I am definitely open to chatting about other types of opportunities.
 
