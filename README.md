@@ -14,7 +14,6 @@ Ideally, I would love to work as a back-end developer; however, I am definitely 
 
 🌐 [luisarojas.com](https://www.luisarojas.com/)<br>
 💼 [linkedin](/in/luisacodes)<br>
-🐦 [twitter](@luisacodes)
 
 <!--
 **luisarojas/luisarojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
