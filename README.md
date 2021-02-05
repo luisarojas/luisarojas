@@ -2,13 +2,17 @@
 
 # Hello, I'm Luisa 👩🏻‍💻
 
-I have just completed my **MSc in Computer Science** and am looking for my next adventure in a **Software Developer** role.
+Currently a DevOps Developer at IBM, in the Cloud team ☁️.
 
-Some technologies I enjoy working with include Python, JavaScript and Java. Others I have worked with in the past are Docker, MongoDB (NoSQL), Neo4J (graph), and PostreSQL (relational).
+<!-- I have just completed my **MSc in Computer Science** and am looking for my next adventure in a **Software Developer** role. -->
 
-I have had exposure to ReactJS, AWS and GraphQL and am currently taking courses to learn them even better.
+Some of the technologies I'm working wiht now include: Kubernetes, Docker, Redis, Cloudant, and Terraform.
 
-Ideally, I would love to work as a back-end developer; however, I am definitely open to chatting about other types of opportunities.
+<!--Some technologies I enjoy working with include Python, JavaScript and Java. Others I have worked with in the past are Docker, MongoDB (NoSQL), Neo4J (graph), and PostreSQL (relational). -->
+
+<!-- I have had exposure to ReactJS, AWS and GraphQL and am currently taking courses to learn them even better. -->
+
+<!-- Ideally, I would love to work as a back-end developer; however, I am definitely open to chatting about other types of opportunities. -->
 
 ### Other places you can reach me
 
@@ -29,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Last update: February 5, 2021
