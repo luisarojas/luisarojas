@@ -4,9 +4,7 @@
 
 Currently a DevOps Developer at IBM, in the Cloud team ☁️.
 
-<!-- I have just completed my **MSc in Computer Science** and am looking for my next adventure in a **Software Developer** role. -->
-
-Some of the technologies I'm working wiht now include: Kubernetes, Docker, Redis, Cloudant, and Terraform.
+Some of the technologies I'm working wiht now include: Terraform, Kubernetes & OpenShift, Chef & Instana
 
 <!--Some technologies I enjoy working with include Python, JavaScript and Java. Others I have worked with in the past are Docker, MongoDB (NoSQL), Neo4J (graph), and PostreSQL (relational). -->
 
@@ -33,6 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br><br><br>
-Last update: February 5, 2021
