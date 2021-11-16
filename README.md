@@ -14,11 +14,13 @@ You can find me in [💼 LinkedIn](https://www.linkedin.com/in/luisacodes/) or l
 ![](https://img.shields.io/badge/code-c++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/tools-docker-informational?style=flat&logo=docker&logoColor=white&color=important)
-![](https://img.shields.io/badge/tools-terraform-informational?style=flat&logo=terraform&logoColor=white&color=important)
 ![](https://img.shields.io/badge/tools-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=important)
 ![](https://img.shields.io/badge/tools-helm-informational?style=flat&logo=helm&logoColor=white&color=important)
-![](https://img.shields.io/badge/tools-git-informational?style=flat&logo=git&logoColor=white&color=important)
-![](https://img.shields.io/badge/tools-jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=important)
+![](https://img.shields.io/badge/IaC-terraform-informational?style=flat&logo=terraform&logoColor=white&color=important)
+![](https://img.shields.io/badge/agile-git-informational?style=flat&logo=git&logoColor=white&color=important)
+![](https://img.shields.io/badge/devops-jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=important)
+![](https://img.shields.io/badge/web-rest-informational?style=flat&logoColor=white&color=important)
+![](https://img.shields.io/badge/web-graphql-informational?style=flat&logo=graphql&logoColor=white&color=important)
 
 ![](https://img.shields.io/badge/cloud-ibmcloud-informational?style=flat&logo=ibm&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/cloud-openshift-informational?style=flat&logo=redhatopenshift&logoColor=white&color=blue)
