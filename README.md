@@ -8,6 +8,11 @@ You can find me in [💼 LinkedIn](https://www.linkedin.com/in/luisacodes/) or l
 
 ### Technologies & Tools
 
+<!-- 
+https://shields.io/
+https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+ -->
+
 ![](https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
@@ -36,17 +41,8 @@ You can find me in [💼 LinkedIn](https://www.linkedin.com/in/luisacodes/) or l
 
 
 <!-- 
-Currently a DevOps Developer at IBM, in the Cloud team ☁️.
-
-Some of the technologies I'm working wiht now include: Terraform, Kubernetes & OpenShift, Chef & Instana
-
-Some technologies I enjoy working with include Python, JavaScript and Java. Others I have worked with in the past are Docker, MongoDB (NoSQL), Neo4J (graph), and PostreSQL (relational).
-
-I have had exposure to ReactJS, AWS and GraphQL and am currently taking courses to learn them even better.
 
 Ideally, I would love to work as a back-end developer; however, I am definitely open to chatting about other types of opportunities.
-
-### Other places you can reach me
 
  -->
 
