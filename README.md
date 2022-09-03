@@ -1,6 +1,6 @@
 # Hello, there! 👋🏼
 
-My name is Luisa (she/her) and I'm currently a DevOps Engineer at IBM, under the Cloud Platform team. I'm from Colombia 🇨🇴 but have been living in Canada 🇨🇦 for a few years now.
+My name is Luisa (she/her) and I'm currently a Software Developer at IBM. For the past couple of years I have been focused on DevOps and supporting IBM Cloud services; however, I am looking to change my focus to a development role.
 
 You can find me in [💼 LinkedIn](https://www.linkedin.com/in/luisacodes/) or learn more about me at [🌐 luisarojas.com](https://www.luisarojas.com/).
 
@@ -13,6 +13,7 @@ https://shields.io/
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
  -->
 
+<!-- 
 ![](https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/code-java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
@@ -36,9 +37,13 @@ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 
 ![](https://img.shields.io/badge/os-ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
-
-
-
+ -->
+ 
+📢 Python, Java, JavaScript, C++<br>
+🐙 Git, Agile<br>
+☁️ IBM Cloud, OpenShift, Kubernetes, Helm, Docker, Terraform, Jenkins<br>
+💾 Relational, Graph and NoSQL databases<br>
+💻 Linux, MacOS<br>
 
 <!-- 
 
