@@ -2,7 +2,7 @@
 
 My name is Luisa (she/her) and I'm currently a Software Developer at IBM. For the past couple of years I have been focused on DevOps and supporting IBM Cloud services; however, I am looking to change my focus to a development role.
 
-You can find me in [💼 LinkedIn](https://www.linkedin.com/in/luisacodes/) or learn more about me at [🌐 luisarojas.com](https://www.luisarojas.com/).
+You can find me in [LinkedIn](https://www.linkedin.com/in/luisacodes/) or learn more about me at [`luisarojas.com`](https://www.luisarojas.com/).
 
 ---
 
