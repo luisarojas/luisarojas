@@ -7,7 +7,7 @@ You can find me in [LinkedIn](https://www.linkedin.com/in/luisacodes/) or learn 
 ---
 
 ### Technologies & Tools
-
+f
 <!-- 
 https://shields.io/
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
@@ -41,7 +41,7 @@ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
  
 📢 Python, Java, JavaScript, C++<br>
 🐙 Git, Agile<br>
-☁️ IBM Cloud, OpenShift, Kubernetes, Helm, Docker, Terraform, Jenkins<br>
+☁️ IBM Cloud, OpenShift, Kubernetes, Helm, Docker, Terraform, Jenkins, Ansible<br>
 💾 Relational, Graph and NoSQL databases<br>
 💻 Linux, MacOS<br>
 
