@@ -7,7 +7,7 @@ You can find me in [LinkedIn](https://www.linkedin.com/in/luisacodes/) or learn 
 ---
 
 ### Technologies & Tools
-f
+
 <!-- 
 https://shields.io/
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
