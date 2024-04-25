@@ -1,6 +1,6 @@
 # Hello, there! 👋🏼
 
-My name is Luisa (she/her) and I'm currently a **Software Developer** at IBM. For the past couple of years I have been focused on DevOps and supporting IBM Cloud services; however, I am looking to change my focus to a development role.
+My name is Luisa (she/her) and I'm currently a **Software Developer** at IBM. For the past few of years I have been focused on DevOps and supporting IBM Cloud services; however, I have most recently also been heavily involved in backend microservice development.
 
 You can find me in [LinkedIn](https://www.linkedin.com/in/luisacodes/) or learn more about me at [`luisarojas.com`](https://www.luisarojas.com/).
 
@@ -39,18 +39,11 @@ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 ![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
  -->
  
-📢 Python, Java, JavaScript, C++<br>
+⌨️ Python, Java, JavaScript, C++, Go<br>
 🐙 Git, Agile<br>
 ☁️ IBM Cloud, OpenShift, Kubernetes, Helm, Docker, Terraform, Jenkins, Ansible<br>
 💾 Relational, Graph and NoSQL databases<br>
 💻 Linux, MacOS<br>
-
-<!-- 
-
-Ideally, I would love to work as a back-end developer; however, I am definitely open to chatting about other types of opportunities.
-
- -->
-
 
 <!--
 **luisarojas/luisarojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
