@@ -2,7 +2,7 @@
 
 My name is Luisa (she/her) and I'm currently a **Software Developer** at IBM. For the past few of years I have been focused on DevOps and supporting IBM Cloud services; however, I have most recently also been heavily involved in backend microservice development.
 
-You can find me in [LinkedIn](https://www.linkedin.com/in/luisacodes/) or learn more about me at [`luisarojas.com`](https://www.luisarojas.com/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/luisacodes/) or learn more about me at [`luisarojas.com`](https://www.luisarojas.com/).
 
 ---
 
